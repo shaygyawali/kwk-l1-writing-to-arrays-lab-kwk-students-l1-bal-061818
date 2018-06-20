@@ -15,9 +15,9 @@ rainbow_colors = [
   rainbow_colors[2] = "light_yellow"
   puts rainbow_colors[2] 
   rainbow_colors.push "green"
-  rainbow_colors
+  puts rainbow_colors
   rainbow_colors.push "blue"
-  rainbow_colors
+  puts rainbow_colors
   
 end
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
