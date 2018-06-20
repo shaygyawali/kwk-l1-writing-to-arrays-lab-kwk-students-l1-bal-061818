@@ -14,10 +14,10 @@ rainbow_colors = [
   puts rainbow_colors[1]
   rainbow_colors[2] = "light_yellow"
   puts rainbow_colors[2] 
-  rainbow_colors.push "green"
-  puts rainbow_colors
-  rainbow_colors.push "blue"
-  puts rainbow_colors
+  rainbow_colors[3] = "green"
+  puts rainbow_colors[4]
+  rainbow_colors.push = "blue"
+  puts rainbow_colors[4]
   
 end
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
