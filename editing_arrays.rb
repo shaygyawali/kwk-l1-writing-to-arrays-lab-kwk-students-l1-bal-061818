@@ -15,8 +15,8 @@ rainbow_colors = [
   rainbow_colors[2] = "light_yellow"
   puts rainbow_colors[2] 
   rainbow_colors[3] = "green"
-  puts rainbow_colors[4]
-  rainbow_colors.push = "blue"
+  puts rainbow_colors[3]
+  rainbow_colors[4] = "blue"
   puts rainbow_colors[4]
   
 end
